@@ -2,4 +2,4 @@
 
 # Specification.EFCore
 
-Some utilities for EF Core to use Specifications
+This functionality has all been moved to the [Specification](https://github.com/ardalis/specification) repo.
